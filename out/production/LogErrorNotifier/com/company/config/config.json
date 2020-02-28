@@ -1,0 +1,33 @@
+[	
+{
+"log_file" : "/home/primesh/LogErrorNotifier/src/com/company/log/App1Log.txt",
+"application_name": "application - 1",
+"users" : [
+{
+"name" : "nimal",
+"email" : "nimal@example.com",
+"phone" : "0000000",
+"notificationTypes" : "email,sms"
+},
+{
+"name" : "kamal",
+"email" : "kamal@example.com",
+"phone" : "0000000",
+"notificationTypes" : "email"
+}
+]
+},
+{
+"log_file" : "/home/primesh/LogErrorNotifier/src/com/company/log/App2Log.txt",
+"application_name": "application - 2",
+"users" : [
+{
+"name" : "saman",
+"email" : "saman@example.com",
+"phone" : "0000000",
+"notificationTypes" : "email,sms"
+}
+]
+}
+
+]

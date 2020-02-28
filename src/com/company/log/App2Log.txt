@@ -1,0 +1,4 @@
+ INFO 2020.01.01 "InfoMessage"
+ WARN 2020.01.02 "WarnMessage"
+ ERROR 2020.01.03 "ErrorMessage"
+ 
